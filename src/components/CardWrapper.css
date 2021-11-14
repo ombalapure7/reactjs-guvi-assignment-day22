@@ -1,0 +1,11 @@
+.card-wrapper {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  margin-left: 13rem;
+  margin-right: 13rem;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 3rem;
+}

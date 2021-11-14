@@ -1,0 +1,24 @@
+.jumbotron {
+  background-color: #060f1c;
+  width: 100vw;
+  height: 20rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.jumbotron-title {
+  color: #fff;
+  font-size: 3.7rem;
+  font-weight: 700;
+}
+
+.jumbotron-subtext {
+  word-spacing: -0.1rem;
+  text-align: center;
+  color: gray;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
